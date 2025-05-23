@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cZ7aMNgfSM8=",
+  "dgSpecHash": "kXzAEIRHYGA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell\\Desktop\\app for project\\GpsBotApp\\GpsBotApp.csproj",
   "expectedPackageFiles": [
@@ -40,5 +40,15 @@
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.16\\microsoft.netcore.app.host.win-x64.8.0.16.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Podczas pobierania danych o lukach w zabezpieczeniach pakietu wystąpił błąd: Nie można załadować indeksu usługi dla źródła https://www.myget.org/F/avalonia-dev/api/v3/index.json.",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\app for project\\GpsBotApp\\GpsBotApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Dell\\Desktop\\app for project\\GpsBotApp\\GpsBotApp.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

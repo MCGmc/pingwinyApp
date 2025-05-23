@@ -1,4 +1,12 @@
+C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\Avalonia\resources
+C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.AssemblyInfo.cs
+C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Desktop\app for project\GpsBotApp\bin\Debug\net8.0\Assets\avalonia-logo.ico
+C:\Users\Dell\Desktop\app for project\GpsBotApp\bin\Debug\net8.0\Assets\Kowalski.jpg
 C:\Users\Dell\Desktop\app for project\GpsBotApp\bin\Debug\net8.0\Assets\map.html
 C:\Users\Dell\Desktop\app for project\GpsBotApp\bin\Debug\net8.0\GpsBotApp.exe
 C:\Users\Dell\Desktop\app for project\GpsBotApp\bin\Debug\net8.0\GpsBotApp.deps.json
@@ -57,13 +65,6 @@ C:\Users\Dell\Desktop\app for project\GpsBotApp\bin\Debug\net8.0\runtimes\osx\na
 C:\Users\Dell\Desktop\app for project\GpsBotApp\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
 C:\Users\Dell\Desktop\app for project\GpsBotApp\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
 C:\Users\Dell\Desktop\app for project\GpsBotApp\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
-C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.csproj.AssemblyReference.cache
-C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
-C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\Avalonia\resources
-C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.AssemblyInfoInputs.cache
-C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.AssemblyInfo.cs
-C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.csproj.Up2Date
 C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.dll
 C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\refint\GpsBotApp.dll
