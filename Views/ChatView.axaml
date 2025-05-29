@@ -1,14 +1,22 @@
 <UserControl xmlns="https://github.com/avaloniaui"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              x:Class="GpsBotApp.Views.ChatView">
-  <DockPanel Margin="10" Background="#FADADD">
-    <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Spacing="5">
-      <TextBox x:Name="InputBox" Width="500" Watermark="Wpisz raport..." />
-      <Button Content="Wyślij" Click="OnSendClicked"/>
-    </StackPanel>
+  <Grid>
+    <DockPanel Margin="10" Background="#FBE0F5">
+      <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Spacing="5">
+        <TextBox x:Name="InputBox" Width="500" Watermark="Wpisz raport..." />
+        <Button Content="Wyślij" Click="OnSendClicked"/>
+      </StackPanel>
 
-    <ScrollViewer VerticalScrollBarVisibility="Auto">
-      <StackPanel x:Name="ChatHistory" Spacing="5"/>
-    </ScrollViewer>
-  </DockPanel>
+      <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel x:Name="ChatHistory" Spacing="5"/>
+      </ScrollViewer>
+    </DockPanel>
+
+    <Button Content="Powrót"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Margin="10"
+            Click="OnBackClick"/>
+  </Grid>
 </UserControl>

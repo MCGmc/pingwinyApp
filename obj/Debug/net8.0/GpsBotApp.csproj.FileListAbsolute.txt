@@ -71,3 +71,5 @@ C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\refint\GpsBotAp
 C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.pdb
 C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.genruntimeconfig.cache
 C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\ref\GpsBotApp.dll
+C:\Users\Dell\Desktop\app for project\GpsBotApp\obj\Debug\net8.0\GpsBotApp.sourcelink.json
+C:\Users\Dell\Desktop\app for project\GpsBotApp\bin\Debug\net8.0\Assets\Map_denmark.png

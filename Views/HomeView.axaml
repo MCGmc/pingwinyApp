@@ -1,0 +1,65 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="GpsBotApp.Views.HomeView">
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+
+    <Grid Grid.Row="1">
+      <Grid.RowDefinitions>
+        <RowDefinition Height="*" />
+        <RowDefinition Height="*" />
+      </Grid.RowDefinitions>
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="*" />
+      </Grid.ColumnDefinitions>
+
+      <!-- Map Button -->
+      <Button Grid.Row="0" Grid.Column="0" Content="Map"
+              Background="#EDA8DA" Foreground="White"
+              FontSize="16" Width="200" Height="200"
+              CornerRadius="25"
+              HorizontalAlignment="Center"
+              VerticalAlignment="Center"
+              HorizontalContentAlignment="Center"
+              VerticalContentAlignment="Center"
+              Click="OnMapClick"/>
+
+      <!-- Video Button -->
+      <Button Grid.Row="0" Grid.Column="1" Content="Wideo"
+              Background="#EDA8DA" Foreground="White"
+              FontSize="16" Width="200" Height="200"
+              CornerRadius="25"
+              HorizontalAlignment="Center"
+              VerticalAlignment="Center"
+              HorizontalContentAlignment="Center"
+              VerticalContentAlignment="Center"
+              Click="OnVideoClick"/>
+
+      <!-- Chat Button -->
+      <Button Grid.Row="1" Grid.Column="0" Content="Chat with bot"
+              Background="#EDA8DA" Foreground="White"
+              FontSize="16" Width="200" Height="200"
+              CornerRadius="25"
+              HorizontalAlignment="Center"
+              VerticalAlignment="Center"
+              HorizontalContentAlignment="Center"
+              VerticalContentAlignment="Center"
+              Click="OnChatClick"/>
+
+      <!-- Denmark Button -->
+      <Button Grid.Row="1" Grid.Column="1" Content="Coming back to denmark"
+              Background="#EDA8DA" Foreground="White"
+              FontSize="16" Width="200" Height="200"
+              CornerRadius="25"
+              HorizontalAlignment="Center"
+              VerticalAlignment="Center"
+              HorizontalContentAlignment="Center"
+              VerticalContentAlignment="Center"
+              Click="OnDenmarkClick"/>
+    </Grid>
+  </Grid>
+</UserControl>

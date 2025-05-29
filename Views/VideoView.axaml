@@ -1,7 +1,16 @@
 <UserControl xmlns="https://github.com/avaloniaui"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              x:Class="GpsBotApp.Views.VideoView">
-    <Grid>
-        <TextBlock Text="Video player placeholder." HorizontalAlignment="Center" VerticalAlignment="Center" />
-    </Grid>
+  <Grid Background="#FBE0F5">
+    <TextBlock Text="Tu będzie wideo z kamery." 
+               HorizontalAlignment="Center" 
+               VerticalAlignment="Center" 
+               FontSize="16"/>
+
+    <Button Content="Powrót"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Margin="10"
+            Click="OnBackClick"/>
+  </Grid>
 </UserControl>
